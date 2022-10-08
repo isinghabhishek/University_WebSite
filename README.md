@@ -13,3 +13,7 @@ The website is come with multiple page section containg diffrent sectons sub sec
 ## Blog
 
 ![EduBlog](https://user-images.githubusercontent.com/91690267/194328930-c26aa15b-3d8f-4f46-91a2-5817e80c8617.jpg)
+
+## Courses
+
+![EduCourse](https://user-images.githubusercontent.com/91690267/194709872-cec25e65-a0c3-4e08-90ac-272900b935ea.jpg)
