@@ -14,7 +14,7 @@ $email_boby = "User Name: $name.\n".
                 "User Message: $message .\n";
 
 
-$to = 'singhabhishek3006.abhi@gmail.com';
+$to = 'abhisheksingh@gmail.com';
 
 $headers = "From: $email_form \r\n";
 
